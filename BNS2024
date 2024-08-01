@@ -1,0 +1,162 @@
+[
+  {
+    "bin": "123456",
+    "brand": "VISA",
+    "type": "Credit",
+    "prepaid": "No",
+    "country": "US",
+    "bank": "BANSI SA 1"
+  },
+  {
+    "bin": "654321",
+    "brand": "MasterCard",
+    "type": "Debit",
+    "prepaid": "Yes",
+    "country": "CA",
+    "bank": "BANSI SA 2"
+  },
+  {
+    "bin": "112233",
+    "brand": "American Express",
+    "type": "Credit",
+    "prepaid": "No",
+    "country": "GB",
+    "bank": "BANSI SA 3"
+  },
+  {
+    "bin": "445566",
+    "brand": "Discover",
+    "type": "Credit",
+    "prepaid": "No",
+    "country": "AU",
+    "bank": "BANSI SA 4"
+  },
+  {
+    "bin": "778899",
+    "brand": "VISA",
+    "type": "Debit",
+    "prepaid": "Yes",
+    "country": "DE",
+    "bank": "BANSI SA 5"
+  },
+  {
+    "bin": "223344",
+    "brand": "MasterCard",
+    "type": "Credit",
+    "prepaid": "No",
+    "country": "FR",
+    "bank": "BANSI SA 6"
+  },
+  {
+    "bin": "998877",
+    "brand": "VISA",
+    "type": "Debit",
+    "prepaid": "Yes",
+    "country": "IT",
+    "bank": "BANSI SA 7"
+  },
+  {
+    "bin": "334455",
+    "brand": "American Express",
+    "type": "Credit",
+    "prepaid": "No",
+    "country": "ES",
+    "bank": "BANSI SA 8"
+  },
+  {
+    "bin": "556677",
+    "brand": "Discover",
+    "type": "Debit",
+    "prepaid": "Yes",
+    "country": "JP",
+    "bank": "BANSI SA 9"
+  },
+  {
+    "bin": "667788",
+    "brand": "VISA",
+    "type": "Credit",
+    "prepaid": "No",
+    "country": "NL",
+    "bank": "BANSI SA 10"
+  },
+  {
+    "bin": "445577",
+    "brand": "MasterCard",
+    "type": "Debit",
+    "prepaid": "Yes",
+    "country": "BR",
+    "bank": "BANSI SA 11"
+  },
+  {
+    "bin": "998822",
+    "brand": "American Express",
+    "type": "Credit",
+    "prepaid": "No",
+    "country": "IN",
+    "bank": "BANSI SA 12"
+  },
+  {
+    "bin": "554433",
+    "brand": "Discover",
+    "type": "Debit",
+    "prepaid": "Yes",
+    "country": "CN",
+    "bank": "BANSI SA 13"
+  },
+  {
+    "bin": "776655",
+    "brand": "VISA",
+    "type": "Credit",
+    "prepaid": "No",
+    "country": "RU",
+    "bank": "BANSI SA 14"
+  },
+  {
+    "bin": "112244",
+    "brand": "MasterCard",
+    "type": "Debit",
+    "prepaid": "Yes",
+    "country": "MX",
+    "bank": "BANSI SA 15"
+  },
+  {
+    "bin": "778866",
+    "brand": "American Express",
+    "type": "Credit",
+    "prepaid": "No",
+    "country": "ZA",
+    "bank": "BANSI SA 16"
+  },
+  {
+    "bin": "334466",
+    "brand": "Discover",
+    "type": "Debit",
+    "prepaid": "Yes",
+    "country": "KR",
+    "bank": "BANSI SA 17"
+  },
+  {
+    "bin": "223355",
+    "brand": "VISA",
+    "type": "Credit",
+    "prepaid": "No",
+    "country": "AR",
+    "bank": "BANSI SA 18"
+  },
+  {
+    "bin": "556644",
+    "brand": "MasterCard",
+    "type": "Debit",
+    "prepaid": "Yes",
+    "country": "SA",
+    "bank": "BANSI SA 19"
+  },
+  {
+    "bin": "998833",
+    "brand": "American Express",
+    "type": "Credit",
+    "prepaid": "No",
+    "country": "AE",
+    "bank": "BANSI SA 20"
+  }
+]
